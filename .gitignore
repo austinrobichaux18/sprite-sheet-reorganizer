@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.github
+/.vs
+/sprite-sheet-reorganizer/.github
+/sprite-sheet-reorganizer/.vs/sprite-sheet-reorganizer
+/sprite-sheet-reorganizer/bin/Debug/net8.0
+/sprite-sheet-reorganizer/obj
